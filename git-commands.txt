@@ -12,6 +12,11 @@ git branch - D dev
 
 this is new comment
 
+ git status
+  git add git-commands.txt
+   git commit -m "added new comment"
+   git status
+   git push origin master
 
 
 
