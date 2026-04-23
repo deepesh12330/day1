@@ -1,3 +1,7 @@
+
+added github to local write
+
+
 git init
 git status
 git add 
