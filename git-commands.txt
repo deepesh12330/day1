@@ -28,7 +28,7 @@ e sentences, a paragraph is half a page long, etc. In reality, though, the unity
  I AM CHANGE GIT&GITHUB AND I WANT TO CHANGE MY LOCAL IF THIS IS RUN COMMAND THEN I AM RIGHT IF THIS IS NOT RUN I AM WRONG
 
 
-
+add new task but this task is no ready 
 
 
 
